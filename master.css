@@ -1,3 +1,4 @@
+/*The code to color the main page heaer box*/
 .wrapper
     {
         margin: auto;
@@ -8,13 +9,15 @@
         background: white;
     }
 
+/*The code to color the main page's background*/
 body
     {
         background: grey;
     }
 
+/*The code that centers the credit area*/
 .credit
-{
-    text-align:center;
-    padding: 10px;
-}
+    {
+        text-align:center;
+        padding: 10px;
+    }
