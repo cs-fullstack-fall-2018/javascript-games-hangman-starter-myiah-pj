@@ -1,0 +1,20 @@
+.wrapper
+    {
+        margin: auto;
+        width: 50%;
+        border: 3px solid green;
+        padding: 10px;
+        text-align:center;
+        background: white;
+    }
+
+body
+    {
+        background: grey;
+    }
+
+.credit
+{
+    text-align:center;
+    padding: 10px;
+}
